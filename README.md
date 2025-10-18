@@ -44,12 +44,6 @@ This project implements a computer vision-based approach to measure respiratory 
 - Pillow (PIL)
 - tkinter (usually comes with Python)
 
-### System Requirements
-
-- Webcam (for live video capture)
-- Sufficient lighting for clear video capture
-- Background image file: `18143510_1006.webp` (for GUI background)
-
 ## 💻 Usage
 
 ### Running the Application
